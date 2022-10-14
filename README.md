@@ -1,16 +1,26 @@
-### Hi there 👋
+## ✨ Hi, I'm Andreea ✨
 
-<!--
-**andreea-popa22/andreea-popa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Bucharest, Romania
 
-Here are some ideas to get you started:
+💻 I am a Junior Software Developer and a tech enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 I am currently pursuing a Master's Degree in *Software Engineering* at @University of Bucharest.
+
+💭 "Per aspera ad astra"
+
+💡 I love coding, learning new things and contributing to projects solving real life problems.
+
+🏆 Check out my [Certificates](https://github.com/andreea-popa22/Certificates)
+
+____
+
+
+
+### Connect with me:
+
+<a href="mailto:popaiuliaandreea22@gmail.com"> 
+ <img src="https://img.shields.io/static/v1?label=&message=Email&color=884fa1&logo=&style=for-the-badge&messageColor=black"</img>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/andreea-popa-273522207/"> 
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</img> 
+</a>
