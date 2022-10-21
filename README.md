@@ -19,6 +19,8 @@ ____
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreea-popa22&theme=jolly&hide_border=true&hide=html,ShaderLab&layout=compact&border_radius=10" alt="andreea's langs card" /> &emsp;
 </div>  </br>
 
+<br/>
+<img src="https://komarev.com/ghpvc/?username=andreea-popa22&color=884fa1&style=for-the-badge&label=Profile+views+since+October+2022" alt="View counter for andreea-popa22">
 
 ## 🔗 Connect with me
 
