@@ -15,7 +15,7 @@
 ____
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:start;">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreea-popa22&count_private=true&show_icons=true&theme=jolly&border_radius=10&hide_border=true&line_height=20" alt="andr's stats card" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreea-popa22&count_private=true&show_icons=true&theme=jolly&border_radius=10&hide_border=true&line_height=20&card_width=400" alt="andr's stats card" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreea-popa22&theme=jolly&hide_border=true&hide=html,ShaderLab&layout=compact&border_radius=10" alt="andr's langs card" /> &emsp;
 </div>  </br>
 
