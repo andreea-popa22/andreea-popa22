@@ -14,10 +14,10 @@
 
 ____
 
-[![Andreea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreea-popa22&count_private=true&show_icons=true&theme=jolly&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-
-____
-
+<div style="display:flex; flex-direction:row; align-items:center; justify-content:start;">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreea-popa22&count_private=true&show_icons=true&theme=jolly&border_radius=10&hide_border=true&line_height=20" alt="andreea's stats card" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreea-popa22&theme=jolly&hide_border=true&hide=html,ShaderLab&layout=compact&border_radius=10" alt="andreea's langs card" /> &emsp;
+</div>  </br>
 
 
 ## 🔗 Connect with me
