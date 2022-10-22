@@ -4,7 +4,7 @@
 
 💻 I am a Junior Software Developer and a tech enthusiast.
 
-📜 I am currently pursuing a Master's Degree in *Software Engineering* at @University of Bucharest.
+📜 I have a [Bachelor's Degree](https://github.com/andreea-popa22/Bachelors-Thesis) in Computer Science and I am currently pursuing a Master's Degree in *Software Engineering* at @University of Bucharest.
 
 💭 "Per aspera ad astra"
 
